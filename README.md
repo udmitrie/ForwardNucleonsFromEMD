@@ -1,0 +1,2 @@
+# ForwardNucleonsFromEMD
+This directory contains the Analysis Task for ALICE Experiment to measure the numbers of forward neutrons and protons produced in electromagnetic dissociation (EMD) of nuclei at the LHC. The cross sections of channels to produce given numbers of neutrons and protons in EMD are printed, energy spectra in ZDCs as well as correlations of energies deposited in ZDCs are plotted.
